@@ -14,7 +14,7 @@ What you should learn from this project:
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorith
 
-### [sort.h](https://github.com/edwardzuniga/ "sort.h")
+### [sort.h](https://github.com/edwardzuniga/sorting_algorithms/blob/main/sort.h "sort.h")
 
 ##### Header File Structure
 
@@ -36,7 +36,7 @@ What you should learn from this project:
 
 Directory where the main files are located to test the functions
 
-### [0. Bubble sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/sort.h "0. Bubble sort")
+### [0. Bubble sort](https://github.com/edwardzuniga/ "0. Bubble sort")
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
