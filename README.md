@@ -16,7 +16,7 @@ What you should learn from this project:
 
 ### [/tests](https://github.com/edwardzuniga/sorting_algorithms/tree/main/tests "tests")
 
-Directory where the main files are located to test the functions
+Directory where the main files are located to test the functions, our print_array.c and print_list.c files (which contain the print_array and print_list functions) will be compiled with their functions during the fix.
 
 ### [sort.h](https://github.com/edwardzuniga/sorting_algorithms/blob/main/sort.h "sort.h")
 
