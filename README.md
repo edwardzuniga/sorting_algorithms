@@ -32,11 +32,11 @@ What you should learn from this project:
          struct listint_s *next;
      } listint_t;
 
-### [/tests](https://github.com/edwardzuniga/ "tests")
+### [/tests](https://github.com/edwardzuniga/sorting_algorithms/tree/main/tests "tests")
 
 Directory where the main files are located to test the functions
 
-### [0. Bubble sort](https://github.com/edwardzuniga/ "0. Bubble sort")
+### [0. Bubble sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/sort.h "0. Bubble sort")
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
