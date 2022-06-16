@@ -54,7 +54,7 @@ Write a function that sorts an array of integers in ascending order using the Se
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
-¡[](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
 ## Authors
 
