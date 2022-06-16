@@ -1,6 +1,8 @@
 # 0x1B. C - Sorting algorithms & Bi
 
-:trollface:
+#### :trollface:
+
+
 ![](https://miro.medium.com/max/646/1*xBNaUDWTVnNIvMTrpS00yQ.png)
 
 ### Description
