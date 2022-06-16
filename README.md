@@ -36,7 +36,7 @@ What you should learn from this project:
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
 ### [1. Insertion sort](https://github.com/edwardzuniga/ "1. Insertion sort")
 
