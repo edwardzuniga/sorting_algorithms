@@ -42,7 +42,7 @@ Write a function that sorts an array of integers in ascending order using the Bu
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
 ### [2. Selection sort](https://github.com/edwardzuniga/ "2. Selection sort")
 
