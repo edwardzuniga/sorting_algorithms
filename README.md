@@ -36,6 +36,8 @@ What you should learn from this project:
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
+![](https://miro.medium.com/max/1400/1*-qR66X2iwdcjhaqq10y9JQ.gif)
+
 ### [1. Insertion sort](https://github.com/edwardzuniga/ "1. Insertion sort")
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
