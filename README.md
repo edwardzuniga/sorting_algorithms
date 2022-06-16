@@ -36,19 +36,19 @@ What you should learn from this project:
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
-![](https://miro.medium.com/max/1400/1*-qR66X2iwdcjhaqq10y9JQ.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ### [1. Insertion sort](https://github.com/edwardzuniga/ "1. Insertion sort")
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
-![](https://miro.medium.com/max/1012/1*JP-wURjwf4k23U2G3GNQDw.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
 ### [2. Selection sort](https://github.com/edwardzuniga/ "2. Selection sort")
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
-![](https://inotgo.com/imagesLocal/202111/29/20211129145528317Y_0.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
 
 ### [3. Quick sort](https://github.com/edwardzuniga/ "3. Quick sort")
 
