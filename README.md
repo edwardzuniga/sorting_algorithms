@@ -40,7 +40,7 @@ Directory where the main files are located to test the functions
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)   ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
 **Compilation:**
 
@@ -50,7 +50,7 @@ Write a function that sorts an array of integers in ascending order using the Bu
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)   ![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
 **Compilation:**
 
@@ -60,7 +60,7 @@ Write a function that sorts a doubly linked list of integers in ascending order 
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)   ![](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sorting_selection_sort_anim.gif?20220209224152)
 
 **Compilation:**
 
@@ -70,7 +70,7 @@ Write a function that sorts an array of integers in ascending order using the Se
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/220px-Sorting_quicksort_anim.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/220px-Sorting_quicksort_anim.gif)
 
 **Compilation:**
 
