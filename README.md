@@ -14,6 +14,10 @@ What you should learn from this project:
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorith
 
+### [/tests](https://github.com/edwardzuniga/sorting_algorithms/tree/main/tests "tests")
+
+Directory where the main files are located to test the functions
+
 ### [sort.h](https://github.com/edwardzuniga/sorting_algorithms/blob/main/sort.h "sort.h")
 
 ##### Header File Structure
@@ -32,9 +36,6 @@ What you should learn from this project:
          struct listint_s *next;
      } listint_t;
 
-### [/tests](https://github.com/edwardzuniga/sorting_algorithms/tree/main/tests "tests")
-
-Directory where the main files are located to test the functions
 
 ### [0. Bubble sort](https://github.com/edwardzuniga/ "0. Bubble sort")
 
