@@ -16,18 +16,18 @@ What you should learn from this project:
 
 ##### Header file
 
-     /**
+    /**
      * struct listint_s - Doubly linked list node
      *
      * @n: Integer stored in the node
      * @prev: Pointer to the previous element of the list
      * @next: Pointer to the next element of the list
      */
-      typedef struct listint_s
+    typedef struct listint_s
      {
-        const int n;
-        struct listint_s *prev;
-        struct listint_s *next;
+         const int n;
+         struct listint_s *prev;
+         struct listint_s *next;
      } listint_t;
 
 ### [0. Bubble sort](https://github.com/edwardzuniga/ "0. Bubble sort")
