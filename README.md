@@ -79,4 +79,4 @@ Write a function that sorts an array of integers in ascending order using the Qu
 ## Authors
 
 #### [Eduardo Zúñiga :soccer: :computer: :chart_with_downwards_trend:](https://github.com/edwardzuniga/ "Eduardo Zúñiga") 
-#### [David Vargas :peach: :eggplant: :nail_care:](https://github.com/David-VargasV/ "David Vargas") 
+#### [David Vargas :nail_care: :peach: :eggplant:](https://github.com/David-VargasV/ "David Vargas") 
