@@ -42,9 +42,9 @@ Write a function that sorts an array of integers in ascending order using the Bu
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
-Compilation:
+**Compilation:**
 
-     gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
+    gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
 
 ### [1. Insertion sort](https://github.com/edwardzuniga/ "1. Insertion sort")
 
@@ -52,17 +52,29 @@ Write a function that sorts a doubly linked list of integers in ascending order 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif) ![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
+**Compilation:**
+
+    gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 1-main.c 1-insertion_sort_list.c print_list.c -o insertion
+
 ### [2. Selection sort](https://github.com/edwardzuniga/ "2. Selection sort")
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
 
+**Compilation:**
+
+    gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 2-main.c 2-selection_sort.c print_array.c -o select
+
 ### [3. Quick sort](https://github.com/edwardzuniga/ "3. Quick sort")
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/220px-Sorting_quicksort_anim.gif)
+
+**Compilation:**
+
+    gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 3-main.c 3-quick_sort.c print_array.c -o quick
 
 ## Authors
 
