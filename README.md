@@ -42,13 +42,19 @@ Write a function that sorts an array of integers in ascending order using the Bu
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
+![](https://miro.medium.com/max/1012/1*JP-wURjwf4k23U2G3GNQDw.gif)
+
 ### [2. Selection sort](https://github.com/edwardzuniga/ "2. Selection sort")
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
+![](https://inotgo.com/imagesLocal/202111/29/20211129145528317Y_0.gif)
+
 ### [3. Quick sort](https://github.com/edwardzuniga/ "3. Quick sort")
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
+
+¡[](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
 ## Authors
 
