@@ -37,7 +37,7 @@ Directory where the main files are located to test the functions, our print_arra
      } listint_t;
 
 
-### [0. Bubble sort](https://github.com/edwardzuniga/ "0. Bubble sort")
+### [0. Bubble sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/0-bubble_sort.c "0. Bubble sort")
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
@@ -47,7 +47,7 @@ Write a function that sorts an array of integers in ascending order using the Bu
 
     gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 0-bubble_sort.c 0-main.c print_array.c -o bubble
 
-### [1. Insertion sort](https://github.com/edwardzuniga/ "1. Insertion sort")
+### [1. Insertion sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/1-insertion_sort_list.c "1. Insertion sort")
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
@@ -57,7 +57,7 @@ Write a function that sorts a doubly linked list of integers in ascending order 
 
     gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 1-main.c 1-insertion_sort_list.c print_list.c -o insertion
 
-### [2. Selection sort](https://github.com/edwardzuniga/ "2. Selection sort")
+### [2. Selection sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/2-selection_sort.c "2. Selection sort")
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
@@ -67,7 +67,7 @@ Write a function that sorts an array of integers in ascending order using the Se
 
     gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 2-main.c 2-selection_sort.c print_array.c -o select
 
-### [3. Quick sort](https://github.com/edwardzuniga/ "3. Quick sort")
+### [3. Quick sort](https://github.com/edwardzuniga/sorting_algorithms/blob/main/3-quick_sort.c "3. Quick sort")
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
