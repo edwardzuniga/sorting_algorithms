@@ -27,9 +27,10 @@ void print_array(const int *array, size_t size);
 void print_list(const listint_t *list);
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
+void swap_nodes(listint_t **a, listint_t **b);
 void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
-
-
+void swap_num(int *array, size_t size, int *x, int *y);
+void _partition(int *array, size_t size, size_t first, size_t second);
 
 #endif /* _SORT_H */
