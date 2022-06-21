@@ -11,40 +11,42 @@
 
 void selection_sort(int *array, size_t size)
 {
-	size_t cont1, cont2, index, swap_temp;
+	size_t cont = 0, curr, start;
+	int index = 0;
 
 	/* Comprobar entradas */
-	if (array == NULL || size == 0)
+	if (!array || !size)
 	{
 		return;
 	}
+
 	/* Loop que recorre la matriz */
-	for (cont1 = 0; cont1 < size - 1; cont1++)
+	while (cont < size)
 	{
 		/* Establecer el número actual en index */
-		index = cont1;
+		index = array[cont];
 
 		/* Encuentra el número más pequeño y lo pone en index */
-		for (cont2 = cont1 + 1; cont2 > size; cont2++)
+		for (curr = cont + 1; curr < size; curr++)
 		{
-			if (array[cont2] < array[index])
+			if (array[curr] < index)
 			{
-				index = cont2;
+				index = array[curr];
+				start = curr;
 			}
 		}
 		/* Si el índice actual no es el elemento más pequeño */
-		if (index != cont1)
+		if (index != array[cont])
 		{
-		/*
-		*Intercambia los elementos hasta que el más
-		*pequeño esté antes de los números más grandes
-		*/
+			/*
+			*Intercambia los elementos hasta que el más
+			*pequeño esté antes de los números más grandes
+			*/
 
-			swap_temp = array[index];
-			array[index] = array[cont1];
-			array[cont1] = swap_temp;
+			array[start] = array[cont];
+			array[cont] = index;
 			print_array(array, size);
 		}
-
+		cont++;
 	}
 }
