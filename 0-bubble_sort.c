@@ -1,4 +1,4 @@
-# include "sort.h"
+#include "sort.h"
 
 /**
  * bubble_sort - function that sorts an array
@@ -10,23 +10,35 @@
 
 void bubble_sort(int *array, size_t size)
 {
-	size_t cont, val;
-	int tmp;
+	size_t cont1, cont2;
+	int temp, flag_temp = 0;
 
-	if (array == NULL || size < 2)
-		return;
-
-	for (cont = 0; cont < size - 1; cont++)
+	/*Comprobar entradas*/
+	if (array == NULL || size == 0)
 	{
-		for (val = 0; val < size - cont - 1; val++)
+		return;
+	}
+
+	/* Cuenta a través del paso actual en la ordenación */
+	for (cont1 = 0; cont1 < size - 1; cont1++)
+	{
+		/* Recorre la matrix */
+		for (cont2 = 0; cont2 < size - cont1 - 1; cont2++)
 		{
-			if (array[val] > array[val + 1])
+			if (array[cont2] > array[cont2 + 1])
 			{
-				tmp = array[val];
-				array[val] = array[val + 1];
-				array[val + 1] = tmp;
+				/* Intercambio de a[i] con a[1 + 1] */
+				temp = array[cont2];
+				array[cont2] = array[cont2 + 1];
+				array[cont2 + 1] = temp;
+				/* Imprime el resultado */
 				print_array(array, size);
+				flag_temp = 1;
 			}
+		}
+		if (flag_temp == 0)
+		{
+			break;
 		}
 	}
 }
