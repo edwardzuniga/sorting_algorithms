@@ -9,6 +9,10 @@
 
 void swap_nodes(listint_t **a, listint_t **b)
 {
+	/*
+	* Cambia la posición de los nodos (ósea a donde apuntan)
+	* para que la linked list quede en orden
+	*/
 	(*a)->next = (*b)->next;
 	(*b)->prev = (*a)->prev;
 	if ((*b)->next)
