@@ -77,6 +77,32 @@ Write a function that sorts an array of integers in ascending order using the Qu
 
     gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 3-main.c 3-quick_sort.c print_array.c -o quick
 
+### Steps to use the project on your local machine:
+
+##### 1-  Clone the repository by pasting the following lines in your terminal.
+
+    git clone  https://github.com/edwardzuniga/sorting_algorithms.git
+
+![](https://i.ibb.co/1266XK8/Screenshot-from-2022-06-21-18-12-15.png)
+
+##### 2- Access the new folder /sorting_algorithms and when listing you will see the files it contains
+
+![](https://i.ibb.co/wCZRSYH/Screenshot-from-2022-06-21-18-12-15.png)
+
+##### 3- Move the .c files from /tests to where the main functions are located, when listing you will see that the main.c files are already there
+
+![](https://i.ibb.co/CwF4j01/Screenshot-from-2022-06-21-18-43-32.png)
+
+##### 4- Compile each of the functions by copying the lines that start with gcc inside the README exercises
+
+![](https://i.ibb.co/9NcSJsZ/Screenshot-from-2022-06-21-18-50-32.png)
+
+##### 5- After compiling, 4 new files will appear (bubble, insertion, select, quick) which must be executed with "./"
+
+Example: "/.bubble"
+
+![](https://i.ibb.co/cCr48LX/Screenshot-from-2022-06-21-18-58-45.png)
+
 ## Authors
 
 #### [David Vargas](https://github.com/David-VargasV/ "David Vargas") 
