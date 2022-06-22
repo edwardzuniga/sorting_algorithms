@@ -93,13 +93,13 @@ Write a function that sorts an array of integers in ascending order using the Qu
 
 ![](https://i.ibb.co/CwF4j01/Screenshot-from-2022-06-21-18-43-32.png)
 
-##### 4- Compile each of the functions by copying the lines that start with gcc inside the README exercises
+##### 4- Compile each of the functions by copying the lines that start with gcc inside the README exercises in the compilation section
 
 ![](https://i.ibb.co/9NcSJsZ/Screenshot-from-2022-06-21-18-50-32.png)
 
 ##### 5- After compiling, 4 new files will appear (bubble, insertion, select, quick) which must be executed with "./"
 
-Example: "/.bubble"
+Example: "./bubble"
 
 ![](https://i.ibb.co/cCr48LX/Screenshot-from-2022-06-21-18-58-45.png)
 
