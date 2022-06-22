@@ -37,7 +37,7 @@ void insertion_sort_list(listint_t **list)
 	{
 		temp = (*list)->next;
 
-		while (temp) /* Iterar hasta el final de la lista */
+		while (temp) /* Iterar, hasta el final de la lista */
 		{
 			value = temp;
 			prev = temp->prev;
